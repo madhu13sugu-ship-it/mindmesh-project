@@ -1,6 +1,0 @@
-Flask
-flask-cors
-google-genai
-requests
-gunicorn
-python-dotenv
