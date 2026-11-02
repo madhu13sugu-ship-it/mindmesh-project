@@ -1,0 +1,5 @@
+.env
+env.txt
+mindmesh_users.db
+__pycache__/
+*.pyc
