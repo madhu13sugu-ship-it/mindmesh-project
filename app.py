@@ -15,7 +15,7 @@ from contextlib import contextmanager
 
 import psycopg
 from psycopg.rows import dict_row
-from import IntegrityError
+from psycopg import IntegrityError
 
 from dotenv import load_dotenv
 
